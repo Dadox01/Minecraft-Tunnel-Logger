@@ -132,4 +132,4 @@ Connect your Minecraft client directly to `127.0.0.1:25565`.
 
 ## Disclaimer
 
-This project is intended strictly for educational, network debugging, and administrative monitoring on servers you own or are authorized to manage[cite: 1]. It does not bypass official Mojang authentication or intercept credentials on servers running standard online authentication[cite: 1]. Ensure compliance with relevant privacy regulations and platform terms of service before recording network traffic.
+This project is intended strictly for educational, network debugging, and administrative monitoring on servers you own or are authorized to manage. It does not bypass official Mojang authentication or intercept credentials on servers running standard online authentication. Ensure compliance with relevant privacy regulations and platform terms of service before recording network traffic.
