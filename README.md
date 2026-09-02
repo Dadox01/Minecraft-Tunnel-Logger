@@ -1,4 +1,4 @@
-# Minecraft TCP Proxy & Command Logger (`mc_tunnel_logger`)
+# Minecraft TCP Proxy & Command Logger
 
 A lightweight, zero-dependency TCP proxy written in Python that bridges connections between Minecraft clients and a target server[cite: 1]. It intercepts and logs incoming connections, player join events, and in-game commands in real time by inspecting packets directly at the network layer[cite: 1].
 
