@@ -121,7 +121,7 @@ Connect your Minecraft client directly to `127.0.0.1:25565`.
 
 ```text
 [2026-09-02 21:10:04] Listening on 0.0.0.0:25565 -> yourserver.hostingprovider.com:9120
-[2026-09-02 21:10:15] JOIN  'PlayerOne' da 127.125.43.170:21342 (PlayerOne (127.125.43.170:21342) -> yourserver.hostingprovider.com:9120)
+[2026-09-02 21:10:15] JOIN  'PlayerOne' from 127.125.43.170:21342 (PlayerOne (127.125.43.170:21342) -> yourserver.hostingprovider.com:9120)
 [2026-09-02 21:10:21] CMD   [PlayerOne]: /login mySecretPass123
 [2026-09-02 21:10:28] CMD   [PlayerOne]: /spawn
 [2026-09-02 21:11:05] CMD   [PlayerOne]: /gamemode creative
